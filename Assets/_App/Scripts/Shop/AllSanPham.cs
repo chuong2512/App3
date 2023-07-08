@@ -7,7 +7,7 @@ public class AllSanPham : ManHinh
 {
     public SanPhamUI sanPham;
     public Transform content;
-
+    
     protected override void Start()
     {
         base.Start();
